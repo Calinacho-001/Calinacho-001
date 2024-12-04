@@ -3,19 +3,80 @@
 
 Hello fellow developers! 👋 I'm **Alexandru Calin**, a Senior Technical Support Engineer with a strong passion for Python and all things tech. My expertise lies in server management, troubleshooting complex technical issues, and implementing automation solutions using Python. With a deep-rooted interest in technology and its applications, I'm constantly exploring ways to optimize processes and drive innovation through code. <br>
 
-#### 🌍Tech Stack
+---
+### 🌍Tech Stack
 
-- **Python Enthusiast**: Currently at a junior level, I'm leveraging Python for scripting, automation, and developing efficient solutions. My proficiency in Python is the result of dedicated personal projects and comprehensive courses that I've pursued. I successfully completed Harvard's CS50 Python course, mastered 'Learn Python3 the Hard Way' by Zed A. Shaw, and I'm currently immersed in the 100Days Python bootcamp from Udemy.
-- **Server Management**: Proficient in overseeing server operations, ensuring smooth functionality and performance.
-- **Troubleshooting**: Skilled in diagnosing and resolving technical issues to maintain system integrity.
-- **Automation**: Dedicated to creating automation scripts to streamline workflows and enhance productivity.
+#### **✨Languages & Scripting:**
+- **Python** (Junior Developer, Automation, Scripting):  
+  - Leveraging Python for developing scripts and automating tasks.
+  - Proficient with Python libraries like **Pandas**, **NumPy**, **PyQt6**, **Tkinter** for GUI development, and **Turtle** for graphical projects.
+  - Experience with **Object-Oriented Programming (OOP)** in Python, making code modular and reusable.
+- **PowerShell**:  
+  - Used for automating system administration tasks in Windows environments.
+  - Experience with scripting for file management, user administration, and system configurations.
+- **SQL** (Basic knowledge):  
+  - Familiar with querying databases for data extraction and analysis tasks.
 
-#### 🖥Other Skills
-
-- **AS/400**: Junior level proficiency achieved in managing mainframe systems.
-- **SQL**: Exposure to SQL for basic data analysis tasks.
-- **Additional Technologies**: Familiarity with Virtual Private Networks (VPNs), Microsoft Office Suite, PowerShell scripting, VMware technologies, Help Desk Support, and Active Directory management.
+#### **💾Frameworks & Libraries:**
+- **PyQt6**, **Tkinter**:  
+  - Building graphical user interfaces (GUIs) for desktop applications.
+- **Pandas**, **NumPy**:  
+  - Handling large datasets, performing data analysis, and working with numerical data.
+- **Turtle**, **CTk**:  
+  - Created basic graphical projects, including visualizations and educational applications.
   
-#### ☀️Collaboration
+#### **🔗Tools & Platforms:**
+- **Virtualization**:  
+  - **VMware**, **VirtualBox**: Experience in managing virtual environments for testing and development.
+- **ServiceNow**:  
+  - Familiar with IT Service Management (ITSM) processes and handling tickets.
+- **Microsoft Office Suite**:  
+  - Proficient with Excel, Word, PowerPoint for documentation, reporting, and data analysis tasks.
+- **Active Directory**:  
+  - Managing user accounts, group policies, and network resources.
+- **Git/GitHub**:  
+  - Version control and collaboration for code management in team settings.
+
+#### **🖥️System & Network Administration:**
+- **AS/400**:  
+  - Managed user accounts, monitored system jobs, and handled basic administration tasks.
+  - Experience with **BPCS** (Business Process Control) systems.
+- **Networking**:  
+  - Knowledge of networking fundamentals like **TCP/IP**, **DNS**, **HTTP**.
+  - **File Transfer Protocols (FTP, SFTP, SCP)** for secure data transfers.
+
+#### **🌐Additional Skills:**
+- **Linux/Unix Command Line**:  
+  - Basic navigation and file operations.
+- **VPN Management**:  
+  - Configuration and troubleshooting VPN connections.
+- **Help Desk Support**:  
+  - Troubleshooting hardware and software issues, providing technical assistance.
+---
+### 🏆 Learning & Certifications
+
+#### **Completed Courses:**
+- **Harvard's CS50 Python Course**:  
+  - Gained a deep understanding of Python fundamentals, algorithms, and problem-solving techniques.
+- **Learn Python 3 the Hard Way by Zed A. Shaw**:  
+  - Mastered Python basics and practical programming skills through a hands-on, project-based approach.
+- **100Days of Python (Udemy)**:  
+  - Immersed in a 100-day bootcamp, building real-world Python projects and enhancing problem-solving skills.
+- **CompTIA A+ (In progress)**:  
+  - Currently preparing for the certification, which focuses on IT fundamentals and hardware troubleshooting.
+- **CompTIA Network+ (In progress)**:  
+  - Currently studying for the certification, covering networking concepts, technologies, and troubleshooting.
+
+#### **Certifications:**
+- **CS50 Python Certification (Harvard)**:  
+  - Completed the CS50 Python course, mastering Python programming and algorithms.
+- **Python Programming (Udemy)**:  
+  - Completed various Python courses with a focus on automation, OOP, and data analysis.
+- **CompTIA A+ (Expected completion: [Month/Year])**:  
+  - Preparing for the certification exam focused on IT hardware and software support.
+- **CompTIA Network+ (Expected completion: [Month/Year])**:  
+  - Preparing for the certification exam with a focus on networking fundamentals.
+---
+### ☀️Collaboration
 
 🚀 Excited about collaborating on projects, brainstorming new ideas, and contributing to the tech community! Feel free to connect and let's explore how we can innovate and create together.
