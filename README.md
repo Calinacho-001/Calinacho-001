@@ -1,6 +1,6 @@
 ## A bit about myself.
 
-Hello fellow developers! 👋 I'm **Alexandru Calin**, a Senior Technical Support Engineer with a strong passion for Python and all things tech. My expertise lies in server management, troubleshooting complex technical issues, and implementing automation solutions using Python. With a deep-rooted interest in technology and its applications, I'm constantly exploring ways to optimize processes and drive innovation through code. <br>
+Hello fellow developers! 👋 I'm **Alexandru Calin**, a Jr. Incident Management Specialist with a strong passion for Python and all things tech. My expertise lies in server management, troubleshooting complex technical issues, and implementing automation solutions using Python. With a deep-rooted interest in technology and its applications, I'm constantly exploring ways to optimize processes and drive innovation through code. <br>
 
 ---
 
