@@ -20,6 +20,10 @@ Hello fellow developers! 👋 I'm **Alexandru Calin**, a Jr. Incident Management
   
   - **SQL** (Basic knowledge):  
     Familiar with querying databases for data extraction and analysis tasks.
+
+  - **CSS, HTML** (Web development):  
+    Building static and responsive websites using **CSS** and **HTML**.
+
 </details>
 
 <details>
@@ -33,37 +37,66 @@ Hello fellow developers! 👋 I'm **Alexandru Calin**, a Jr. Incident Management
 
   - **Turtle**, **CTk**:  
     Created basic graphical projects, including visualizations and educational applications.
+
+  - **Flask**, **Bootstrap 4**:  
+    Used for web development, including both front-end and back-end functionalities.
+
 </details>
 
 <details>
-  <summary>Tools & Platforms (Click to see more)</summary>
+  <summary>Web Scraping (Click to see more)</summary>
   
-  - **Virtualization**:  
-    **VMware**, **VirtualBox**: Experience in managing virtual environments for testing and development.
+  - **Selenium**, **BeautifulSoup (bs4)**:  
+    Automated web scraping and browser interactions to gather and process data from websites.
 
-  - **ServiceNow**:  
-    Familiar with IT Service Management (ITSM) processes and handling tickets.
-
-  - **Microsoft Office Suite**:  
-    Proficient with Excel, Word, PowerPoint for documentation, reporting, and data analysis tasks.
-
-  - **Active Directory**:  
-    Managing user accounts, group policies, and network resources.
-
-  - **Git/GitHub**:  
-    Version control and collaboration for code management in team settings.
 </details>
 
 <details>
-  <summary>System & Network Administration (Click to see more)</summary>
+  <summary>Databases (Click to see more)</summary>
+  
+  - **SQL**, **SQLite**, **PostgreSQL**:  
+    Managing databases, creating queries, and handling data storage and retrieval.
+
+</details>
+
+<details>
+  <summary>Automation & Troubleshooting (Click to see more)</summary>
+  
+  - **Automation scripting** (Python, PowerShell):  
+    Automating repetitive tasks to enhance productivity and efficiency.
+
+  - **Troubleshooting** (System and network issues):  
+    Resolving technical problems with hardware, software, and network configurations.
+
+  - **Networking Basics** (TCP/IP, DNS, HTTP):  
+    Understanding basic networking concepts for troubleshooting and configuration.
+
+</details>
+
+<details>
+  <summary>Server & System Management (Click to see more)</summary>
   
   - **AS/400**:  
     Managed user accounts, monitored system jobs, and handled basic administration tasks.  
     Experience with **BPCS** (Business Process Control) systems.
 
-  - **Networking**:  
-    Knowledge of networking fundamentals like **TCP/IP**, **DNS**, **HTTP**.  
-    **File Transfer Protocols (FTP, SFTP, SCP)** for secure data transfers.
+  - **VMware**, **VirtualBox**:  
+    Experience in managing virtual environments for testing and development.
+
+  - **Active Directory**:  
+    Managing user accounts, group policies, and network resources.
+
+  - **ServiceNow**:  
+    Familiar with IT Service Management (ITSM) processes and handling tickets.
+
+</details>
+
+<details>
+  <summary>File Transfer Protocols (Click to see more)</summary>
+  
+  - **FTP**, **SFTP**, **SCP**:  
+    Experience with transferring files securely between systems using various protocols.
+
 </details>
 
 <details>
@@ -75,8 +108,9 @@ Hello fellow developers! 👋 I'm **Alexandru Calin**, a Jr. Incident Management
   - **VPN Management**:  
     Configuration and troubleshooting VPN connections.
 
-  - **Help Desk Support**:  
-    Troubleshooting hardware and software issues, providing technical assistance.
+  - **Microsoft Office Suite**:  
+    Proficient with Excel, Word, PowerPoint for documentation, reporting, and data analysis tasks.
+
 </details>
 
 ---
