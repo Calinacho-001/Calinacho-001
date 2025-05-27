@@ -38,7 +38,7 @@ Hello fellow developers! 👋 I'm **Alexandru Calin**, a Jr. Incident Management
   - **Turtle**, **CTk**:  
     Created basic graphical projects, including visualizations and educational applications.
 
-  - **Flask**, **Bootstrap 4**:  
+  - **Flask**, **Bootstrap**:  
     Used for web development, including both front-end and back-end functionalities.
 
 </details>
